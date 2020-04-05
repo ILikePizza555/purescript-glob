@@ -1,8 +1,12 @@
 module Glob.Options where
 
-import Data.Options (Option, opt)
+import Data.Options (Option, Options(..), opt)
 
 data GlobOptions
+
+--| No options
+noop :: Options GlobOptions
+noop = Options []
 
 --  The current working directory in which to search. Defaults to process.cwd().
 cwd :: Option GlobOptions String
