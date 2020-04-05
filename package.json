@@ -1,0 +1,26 @@
+{
+  "name": "purescript-glob",
+  "version": "1.0.0",
+  "description": "Purescript bindings for glob",
+  "main": "\"\"",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "spago test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILikePizza555/purescript-glob.git"
+  },
+  "author": "ILikePizza555",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ILikePizza555/purescript-glob/issues"
+  },
+  "homepage": "https://github.com/ILikePizza555/purescript-glob#readme"
+}
