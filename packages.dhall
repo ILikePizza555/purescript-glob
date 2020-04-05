@@ -126,7 +126,7 @@ let overrides = {=}
 let additions = {
     glob = {
         dependencies = [
-            "gob"
+            "glob"
         ],
         repo = "https://github.com/isaacs/node-glob",
         version = "4.0.6"
