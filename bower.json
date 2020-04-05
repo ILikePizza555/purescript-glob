@@ -1,28 +1,27 @@
 {
-  "name": "purescript-purescript-glob",
-  "license": [
-    "Apache-2.0"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ILikePizza555/purescript-glob"
-  },
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "output"
-  ],
-  "dependencies": {
-    "purescript-aff": "^v5.1.2",
-    "purescript-arrays": "^v5.3.1",
-    "purescript-console": "^v4.4.0",
-    "purescript-effect": "^v2.0.1",
-    "purescript-foreign": "^v5.0.0",
-    "purescript-functions": "^v4.0.0",
-    "purescript-options": "^v5.0.0",
-    "purescript-psci-support": "^v4.0.0",
-    "purescript-spec": "^v4.0.1",
-    "glob": "^4.0.6"
-  }
+    "name": "purescript-purescript-glob",
+    "license": [
+        "Apache-2.0"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ILikePizza555/purescript-glob"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-aff": "^v5.1.2",
+        "purescript-arrays": "^v5.3.1",
+        "purescript-console": "^v4.4.0",
+        "purescript-effect": "^v2.0.1",
+        "purescript-foreign": "^v5.0.0",
+        "purescript-functions": "^v4.0.0",
+        "purescript-options": "^v5.0.0",
+        "purescript-psci-support": "^v4.0.0",
+        "purescript-spec": "^v4.0.1"
+    }
 }
