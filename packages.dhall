@@ -123,6 +123,14 @@ let upstream =
 
 let overrides = {=}
 
-let additions = {=}
+let additions = {
+    glob = {
+        dependencies = [
+            "gob"
+        ],
+        repo = "https://github.com/isaacs/node-glob",
+        version = "4.0.6"
+    }
+}
 
 in  upstream // overrides // additions
