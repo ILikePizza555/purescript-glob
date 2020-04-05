@@ -10,6 +10,7 @@ You can edit this file as you like.
   , "foreign"
   , "functions"
   , "node-fs"
+  , "options"
   , "psci-support"
   ]
 , packages = ./packages.dhall
