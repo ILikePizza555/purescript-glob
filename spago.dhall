@@ -10,10 +10,8 @@ You can edit this file as you like.
   , "effect"
   , "foreign"
   , "functions"
-  , "node-fs"
   , "options"
   , "psci-support"
-  , "transformers"
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
